@@ -1,1 +1,1 @@
-console.log(" Tapas");
+console.log("Tapas");
